@@ -1,36 +1,44 @@
 ---
-layout: home
+layout: default
 description: "Rocky Mountain High School Music"
 ---
+<header class="intro-header" style="background-image: url('/img/rmhs-home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <hr class="small">
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-    </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+<!-- Main Content -->
+<div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Heading</h2>
+          <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/-Ar6rLfAgXY"></iframe>
 </div>
-<hr>
-{% endfor %}
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
+        </div>
+        <div class="col-md-6">
+          <h2>Fall Schedule</h2>
+<ul>
+	<li>9/30/2016 5:00 PM - 10:00 PM GMB: Home Football Game (Homecoming)</li>
+	<li>10/1/2016 GMB: Kuna Marching Invitational</li>
+	<li>10/7/2016 5:00 PM - 10:00 PM GMB: Home Football Game (Senior Night)</li>
+	<li>10/14/2016 - 10/16/2016 GMB: Harvest Marching Band Festival</li>
+	<li>Location: Yakima, WA, USA</li>
 </ul>
-{% endif %}
+
+          <p><a class="btn btn-default" href="http://www.westada.org/Page/38277" role="button">View details »</a></p>
+       </div>
+      </div>
+
+      <hr>
