@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:jegan</key>
 	<false/>
-	<key>ExpandedEditorWidth:jegan:displays([(0, 0), (1920, 1080)]:[(1920, 241), (1280, 800)])</key>
+	<key>ExpandedEditorWidth:jegan:displays()</key>
 	<integer>866</integer>
 	<key>ExpandedItems:jegan</key>
 	<array>
@@ -39,6 +39,41 @@
 			</data>
 			<key>FileURL</key>
 			<string>file:///Users/jegan/Sites/rmhsmusic.github.com/_posts/</string>
+			<key>TypeID</key>
+			<string>_CFileLocator</string>
+			<key>Version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>BookmarkData</key>
+			<data>
+			Ym9va5gDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAlAIAAAUAAAABAQAAVXNlcnMAAAAFAAAAAQEAAGpl
+			Z2FuAAAABQAAAAEBAABTaXRlcwAAABQAAAABAQAAcm1oc211c2lj
+			LmdpdGh1Yi5jb20DAAAAAQEAAGltZwAUAAAAAQYAAAQAAAAUAAAA
+			JAAAADQAAABQAAAACAAAAAQDAADVkwIAAAAAAAgAAAAEAwAAQUQJ
+			AAAAAAAIAAAABAMAAKAXEwAAAAAACAAAAAQDAAD2CAsCAAAAAAgA
+			AAAEAwAAVgkLAgAAAAAUAAAAAQYAAHgAAACIAAAAmAAAAKgAAAC4
+			AAAACAAAAAAEAABBvZ8YygAAABgAAAABAgAAAgAAAAAAAAAPAAAA
+			AAAAAAAAAAAAAAAABAAAAAMDAAADAAAABAAAAAMDAAD1AQAACAAA
+			AAEJAABmaWxlOi8vLwwAAAABAQAATWFjaW50b3NoIEhECAAAAAQD
+			AAAAEIgqOgAAAAgAAAAABAAAQbnmyGcAAAAkAAAAAQEAADc4REU4
+			OTk0LUMxQkUtMzU2OC1CRUNFLTdFM0UxOTIzNzRCQRgAAAABAgAA
+			gQAAAAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAA
+			AAEFAAC8AAAAAQIAAGUzZGI1MDljMjNkYTE1ZjM4ZmI0NjJmZGNm
+			MmI5MzQ5NjQyM2Q0ZjM7MDAwMDAwMDA7MDAwMDAwMDA7MDAwMDAw
+			MDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNhbmRib3gucmVhZC13
+			cml0ZTswMDAwMDAwMTswMTAwMDAwNDswMDAwMDAwMDAyMGIwOTU2
+			Oy91c2Vycy9qZWdhbi9zaXRlcy9ybWhzbXVzaWMuZ2l0aHViLmNv
+			bS9pbWcAzAAAAP7///8BAAAAAAAAABAAAAAEEAAAXAAAAAAAAAAF
+			EAAAyAAAAAAAAAAQEAAA9AAAAAAAAABAEAAA5AAAAAAAAAACIAAA
+			vAEAAAAAAAAFIAAALAEAAAAAAAAQIAAAPAEAAAAAAAARIAAAcAEA
+			AAAAAAASIAAAUAEAAAAAAAATIAAAYAEAAAAAAAAgIAAAnAEAAAAA
+			AAAwIAAAyAEAAAAAAAABwAAAFAEAAAAAAAARwAAAFAAAAAAAAAAS
+			wAAAIAEAAAAAAACA8AAA0AEAAAAAAAA=
+			</data>
+			<key>FileURL</key>
+			<string>file:///Users/jegan/Sites/rmhsmusic.github.com/img/</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -617,7 +652,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -664,7 +699,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -709,7 +744,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -754,7 +789,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -799,7 +834,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -845,7 +880,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -892,7 +927,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -938,7 +973,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -984,7 +1019,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1030,7 +1065,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2016-10-01T15:09:47Z</date>
+			<date>2016-10-05T08:00:33Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -1084,7 +1119,7 @@
 	<false/>
 	<key>ViewSplitterPosition:jegan</key>
 	<real>0.26109215617179871</real>
-	<key>WindowFrame:jegan:displays([(0, 0), (1920, 1080)]:[(1920, 241), (1280, 800)])</key>
+	<key>WindowFrame:jegan:displays()</key>
 	<string>rect(45,0,896,1172)</string>
 </dict>
 </plist>
